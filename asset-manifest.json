@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danish12-cyber/weather-dashboard.git/static/css/main.0d40213e.css",
+    "main.js": "/danish12-cyber/weather-dashboard.git/static/js/main.7113d0dd.js",
+    "static/js/453.3c8dae59.chunk.js": "/danish12-cyber/weather-dashboard.git/static/js/453.3c8dae59.chunk.js",
+    "index.html": "/danish12-cyber/weather-dashboard.git/index.html",
+    "main.0d40213e.css.map": "/danish12-cyber/weather-dashboard.git/static/css/main.0d40213e.css.map",
+    "main.7113d0dd.js.map": "/danish12-cyber/weather-dashboard.git/static/js/main.7113d0dd.js.map",
+    "453.3c8dae59.chunk.js.map": "/danish12-cyber/weather-dashboard.git/static/js/453.3c8dae59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d40213e.css",
+    "static/js/main.7113d0dd.js"
+  ]
+}
